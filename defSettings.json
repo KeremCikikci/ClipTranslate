@@ -1,0 +1,33 @@
+{
+  "window": {
+    "min_width": 0.15,
+    "min_height": 0.3,
+    "def_width": 0.15,
+    "def_height": 0.3,
+    "def_x": 0.1,
+    "def_y": 0.3
+  },
+  "font": {
+    "min_size": 8,
+    "def_size": 12
+  },
+  "language": {
+    "def_source": "auto",
+    "def_target": "tr",
+    "list": ["tr", "en", "fr", "de", "es"]
+  },
+  "theme": {
+    "theme": "dark"
+  },
+  "ui": {
+    "titlebar_h": 0.02,
+    "toolbar_h": 0.025,
+    "text_hor_margin": 0,
+    "combo_width": 0.2,
+    "combo_ver_margin": 0.05,
+    "combo_hor_margin": 0.02,
+    "space_c_b": 0.15,
+    "button_ver_margin": 0.05,
+    "button_hor_margin": 0.05
+  }
+}
